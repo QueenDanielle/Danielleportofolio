@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio CV </title>
+   <title> Shalom Queen Danielle </title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <img src="foto.jpg" alt="Foto">
+    <h1> Shalom Queen Danielle </h1>
+    <p class="role">Creative Coder & Musician</p>
+
+    <div class="info">
+      <p>🎸 Music Enthusiast</p>
+      <p>💻 Electrical Engineer</p>
+      <p>📍 Jakarta,Indonesia</p>
+    </div>
+  </aside>
+
+  <!-- MAIN CONTENT -->
+  <main class="content">
+    <section class="card animate">
+      <h2>✨ About ME!</h2>
+      <p>
+        Nama saya Shalom Queen Danielle, saya bersekolah di SD Cahaya Sakti Jakarta di tingkat SD,
+        Saya melanjutkan jenjang SMP saya di SMPK Pa Van Der Steur. 
+        Dan saya melanjutkan jenjang SMA saya di SMA Prestasi Prima Jakarta.
+        Saya memiliki passion di bidang musik dan informatika, saya ingin melanjutkan kuliah saya di MIT Pensylvennia
+        atau Insitut Teknologi Bandung.
+        Saya adalah individu kreatif yang menyukai dunia coding dan musik.
+        Terbiasa menggabungkan logika pemrograman dengan kreativitas seni.
+      </p>
+    </section>
+
+    <section class="card animate">
+      <h2>💻 Keahlian Coding</h2>
+      <div class="skills">
+        <span>HTML</span>
+        <span>CSS</span>
+        <span>JavaScript</span>
+        <span>GitHub</span>
+      </div>
+    </section>
+
+    <section class="card animate">
+      <h2>🎵 Keahlian Musik</h2>
+      <ul>
+        <li>Bermain gitar & keyboard</li>
+        <li>Music arrangement</li>
+        <li>Basic recording & mixing</li>
+      </ul>
+    </section>
+
+    <section class="card animate">
+      <h2>🚀 Project</h2>
+      <ul>
+        <li>🎨 Pernah membuat website lingkungan</li>
+        <li>📝 Pernah mengikuti science olimpiad international</li>
+        <li>🎶 Music Landing Page</li>
+      </ul>
+    </section>
+
+    <section class="card animate">
+      <h2>📫 Kontak: 087684639202</h2>
+      <p>Email: queendanielle@gmail.com</p>
+      <p>GitHub: github.com/queendanielle</p>
+    </section>
+  </main>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
